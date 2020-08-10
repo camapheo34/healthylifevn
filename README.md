@@ -1,2 +1,2 @@
-# healthylifevn
-healthylifevn project
+# amd
+website amd
